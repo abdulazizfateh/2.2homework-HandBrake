@@ -1097,6 +1097,7 @@ li {
 
 @media (min-width: 940px) {
     .footer-wrapper {
+        height: 144px;
         padding-top: 32px;
     }
 
